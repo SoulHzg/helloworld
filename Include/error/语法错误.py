@@ -1,0 +1,1 @@
+print("hello wrold")  #SyntaxError 语法错误
